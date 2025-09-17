@@ -1,8 +1,9 @@
-print("Calculate the are of a wall.")
-Feed = input("enter the widht in meters: ")
-Widht = int (Feed)
-Feed = input("enter the height in meters: ")
+print("Calculate the area of a wall.")
+Feed = input("Enter the widht in meters: ")
+Widht = int(Feed)
+Feed = input("Enter the height in meters: ")
 Height = int(Feed)
-print(f"widht is {Widht} m and height is {Height} m")
-Area = Widht * Height
-print(f"the wall will be {Area} square meters.")           
+print("Widht is",Widht,"m and height is",Height,"m".)
+area = Widht * Height
+print(The wall will be",area,"square meters.")           
+
