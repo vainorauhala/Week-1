@@ -5,5 +5,6 @@ Feed = input("Enter the height in meters: ")
 Height = int(Feed)
 print("Widht is",Widht,"m and height is",Height,"m".)
 area = Widht * Height
-print(The wall will be",area,"square meters.")           
+print("The wall will be",area,"square meters.")           
+
 
